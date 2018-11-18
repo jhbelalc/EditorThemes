@@ -10,3 +10,4 @@
 - Open your Windows registry editor
 - Make a registry backup of your vfp9 editor settings ( **HKEY_CURRENT_USER\Software\Microsoft\VisualFoxPro\9.0\Options** )
 - Use Import -> Select your theme file settings **"nfTools-Blue-Vfp9-Editor-Theme.txt"**
+- Restart Vfp or use SYS(3056) from the command window to reload registry settings.
