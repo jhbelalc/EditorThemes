@@ -7,7 +7,7 @@
 **Steps:**
 
 - Install Font "Roboto Mono" from [https://github.com/google/fonts/raw/master/apache/robotomono/RobotoMono-Regular.ttf](https://github.com/google/fonts/raw/master/apache/robotomono/RobotoMono-Regular.ttf)
-- Use Import -> Select your theme file settings **"DarkFox-Vfp9-Editor-Theme.txt"**
+- Open Regedit , File->Import-> "show all file types" then Select your theme file  **"DarkFox-Vfp9-Editor-Theme.txt"**
 - Restart Vfp or use SYS(3056) from the command window to reload registry settings.
 
 Note:
